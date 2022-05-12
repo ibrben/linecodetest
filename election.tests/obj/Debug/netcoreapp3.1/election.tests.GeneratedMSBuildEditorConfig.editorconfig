@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = election.tests
+build_property.ProjectDir = /Users/ibr/Documents/LINECodeTest/linecodetest/election.tests/

@@ -1,0 +1,55 @@
+﻿<Properties StartupConfiguration="{99B3D1B0-3A72-4D7D-8331-0BC1842232F6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="election/Properties/launchSettings.json">
+    <Files>
+      <File FileName="election/Controllers/CandidateController.cs" Line="22" Column="66" />
+      <File FileName="election/Controllers/UserController.cs" Line="10" Column="13" />
+      <File FileName="election/Controllers/VoteController.cs" Line="13" Column="16" />
+      <File FileName="election/Properties/launchSettings.json" Line="27" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="linecodetest" expanded="True">
+            <Node name="election" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="launchSettings.json" selected="True" />
+              </Node>
+            </Node>
+            <Node name="election.tests" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="linecodetest" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.election PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>linecodetest.Test/linecodetest.Test.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ibr/Documents/LINECodeTest/linecodetest/.Tests/Controllers/CandidatesControllerTest.cs" relfile=".Tests/Controllers/CandidatesControllerTest.cs" line="44" column="1" />
+      <Breakpoint file="/Users/ibr/Documents/LINECodeTest/linecodetest/.Tests/Controllers/CandidatesControllerTest.cs" relfile=".Tests/Controllers/CandidatesControllerTest.cs" line="39" column="1" />
+      <Breakpoint file="/Users/ibr/Documents/LINECodeTest/linecodetest/.Tests/Controllers/CandidatesControllerTest.cs" relfile=".Tests/Controllers/CandidatesControllerTest.cs" line="57" column="1" />
+      <Breakpoint file="/Users/ibr/Documents/LINECodeTest/linecodetest/.Tests/Controllers/CandidatesControllerTest.cs" relfile=".Tests/Controllers/CandidatesControllerTest.cs" line="83" column="1" />
+      <Breakpoint file="/Users/ibr/Documents/LINECodeTest/linecodetest/.Tests/Controllers/CandidatesControllerTest.cs" relfile=".Tests/Controllers/CandidatesControllerTest.cs" line="100" column="1" />
+      <Breakpoint file="/Users/ibr/Documents/LINECodeTest/linecodetest/.Tests/Controllers/CandidatesControllerTest.cs" relfile=".Tests/Controllers/CandidatesControllerTest.cs" line="97" column="1" />
+      <Breakpoint file="/Users/ibr/Documents/LINECodeTest/linecodetest/.Tests/Controllers/VoteControllerTest.cs" relfile=".Tests/Controllers/VoteControllerTest.cs" line="42" column="1" />
+      <Breakpoint file="/Users/ibr/Documents/LINECodeTest/linecodetest/.Tests/Controllers/VoteControllerTest.cs" relfile=".Tests/Controllers/VoteControllerTest.cs" line="84" column="1" />
+      <Breakpoint file="/Users/ibr/Documents/LINECodeTest/linecodetest/.Tests/Controllers/VoteControllerTest.cs" relfile=".Tests/Controllers/VoteControllerTest.cs" line="99" column="1" />
+      <Breakpoint file="/Users/ibr/Documents/LINECodeTest/linecodetest/.Tests/Controllers/VoteControllerTest.cs" relfile=".Tests/Controllers/VoteControllerTest.cs" line="114" column="1" />
+      <Breakpoint file="/Users/ibr/Documents/LINECodeTest/linecodetest/.Tests/Controllers/CandidatesControllerTest.cs" relfile=".Tests/Controllers/CandidatesControllerTest.cs" line="81" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
